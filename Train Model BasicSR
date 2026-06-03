@@ -1,0 +1,1 @@
+ BasicSR (Basic Super Restoration) is an open-source image and video restoration toolbox based on PyTorch, such as super-resolution, denoise, deblurring, JPEG artifacts removal, etc.
