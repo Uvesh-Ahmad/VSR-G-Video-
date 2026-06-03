@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/vsr_banner.png" alt="VSR Project Banner" width="100%"/>
-
 <br/>
 
 # 🎬 VSR — Deep Learning Approaches for<br/>Artistic & Temporal-Consistent Video Super-Resolution
 
-<p><em>MCA Dissertation Project · Amity University, Noida · 2024–2026</em></p>
+<p><em>Master of Computer Application, MCA Dissertation Project · Amity University, Noida, India · 2024–2026</em></p>
 
 <br/>
+<img src="assets/vsr_banner.png" alt="VSR Project Banner" width="100%"/>
+
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
@@ -23,8 +23,8 @@
 
 <br/>
 
-**Author:** [Uvesh Ahmad](https://github.com/Uvesh-Ahmad) &nbsp;·&nbsp; `AU/2021/CSE/AI-0847`  
-**Supervisor:** Prof. Dr. Rajbala Simon &nbsp;·&nbsp; **Amity University, Noida** &nbsp;·&nbsp; Batch 2021–2025
+**Author:** [Uvesh Ahmad](https://github.com/Uvesh-Ahmad) &nbsp;·&nbsp; `AU/2021/CSE/-0847`  
+**Supervisor:** Prof. Dr. Rajbala Simon &nbsp;·&nbsp; **Amity University, Noida, India** &nbsp;·&nbsp; Batch 2024–2026
 
 <br/>
 
@@ -237,7 +237,7 @@ pip install -r requirements.txt    # ~1–2 GB total (PyTorch included)
 #!/usr/bin/env python3
 """
 Hybrid VSR Inference — Lightweight Version
-Author  : Uvesh Ahmad | AU/2021/CSE/AI-0847 | Amity University
+Author  : Uvesh Ahmad | AU/2026/CSE-113 | Amity University
 Advisor : Prof. Dr. Rajbala Simon
 """
 
@@ -338,7 +338,7 @@ If this work is useful for your research, please cite:
   title      = {Deep Learning Approaches for Artistic and Temporal-Consistent
                 Video Super-Resolution},
   school     = {Amity University, Noida},
-  year       = {2025},
+  year       = {2024 - 2026},
   supervisor = {Prof. Dr. Rajbala Simon},
   note       = {MCA Dissertation, Enrollment: AU/2021/CSE/AI-0847}
 }
@@ -374,11 +374,11 @@ Supervisor: **Prof. Dr. Rajbala Simon**
 
 ### 🔬 Research at Amity University
 
-Working as **Teaching Assistant & Researcher** (May 2025 – May 2026) under **Prof. Dr. Rajbala Simon**:
+Working as **Teaching Assistant & Researcher** (Jun 2024 – Jun 2026) under **Prof. Dr. Rajbala Simon**:
 
 - 📄 **IEEE Xplore (2025)** — *"Optimized Tour Planning Advisor Using Regression Models"*
-- 🎥 MCA Dissertation — **Video Super-Resolution** *(this project)*
-- 🧠 Ongoing research in **Neuro-Symbolic AI**, **Real-Time Object Detection**, **Computer Vision**
+- 🎥 Master of Computer Application, MCA Dissertation — **Video Super-Resolution** *(this project)*
+- 🧠 Ongoing Research in **Neuro-Symbolic AI**, **Real-Time Object Detection**, **Computer Vision**
 - 👨‍🏫 Mentored **7+ students** in Dissertations, Research Papers & Academic Projects
 
 ### 🛠️ Technical Stack
@@ -432,7 +432,7 @@ Working as **Teaching Assistant & Researcher** (May 2025 – May 2026) under **P
 
 <br/>
 
-*© 2025 Uvesh Ahmad · Amity University, Noida · MIT License*  
+*© 2024 Uvesh Ahmad · Amity University, Noida · MIT License*  
 *Supervised by Prof. Dr. Rajbala Simon*
 
 </div>
