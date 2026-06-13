@@ -51,9 +51,9 @@
 
 ## 📌 Abstract
 
-**Video Super-Resolution (VSR)** reconstructs high-resolution (HR) video sequences from low-resolution (LR) inputs. Existing approaches face a fundamental trade-off: GAN-based methods produce sharp textures but introduce inter-frame flickering, while RNN-based methods ensure temporal smoothness at the cost of spatial detail.
+**Video Super-Resolution (VSR)** Reconstructs High-Resolution (HR) video sequences from low-resolution (LR) inputs. Existing approaches face a fundamental trade-off: GAN-based methods produce sharp textures but introduce Inter-Frame Flickering, while RNN-based methods ensure Temporal Smoothness at the cost of Spatial Detail.
 
-This work proposes a **Hybrid Alpha-Blend Framework** that combines per-frame ESRGAN upscaling with Farneback optical flow–guided warping to achieve both sharpness and temporal consistency — without additional training overhead.
+This work proposes a **Hybrid Alpha-Blend Framework** that combines per-frame ESRGAN Upscaling with Farneback Optical Flow–Guided Warping to Achieve both sharpness and temporal consistency — without additional training overhead.
 
 > 💡 **Core Formula:**
 > ```
@@ -333,7 +333,7 @@ if __name__ == "__main__":
 If this work is useful for your research, please cite:
 
 ```bibtex
-@mastersthesis{ahmad2026vsr,
+@mastersthesis{uvesh.ahmad2026vsr,
   author     = {Uvesh Ahmad},
   title      = {Deep Learning Approaches for Artistic and Temporal-Consistent
                 Video Super-Resolution},
